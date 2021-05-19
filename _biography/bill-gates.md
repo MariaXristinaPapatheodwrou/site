@@ -12,4 +12,4 @@ tags:
   - Cortana
 ---
 
-{% include_relative bio-bill-gates.md %}
+{% include_relative bio-gates.md %}
