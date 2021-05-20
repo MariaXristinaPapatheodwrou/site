@@ -14,4 +14,6 @@ gallery:
     caption: "Η πολιτική απορρήτου και ασφάλειας της Cortana είναι καλή, σε γενικές γραμμές, αλλά σίγουρα επιδέχεται περιθώρια βελτίωσης." 
 ---
 
+{% include_relative cs-cortana.md %}
+
 {% include gallery %}
